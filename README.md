@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Weather App in React<br>🌱 I’m currently learning React+Typescript<br>
+🔭 I’m currently updating my ToDoList project with some BackEnd in React<br>🌱 I’m currently learning React+Typescript<br>
 
 
 # 💻 Tech Stack:
