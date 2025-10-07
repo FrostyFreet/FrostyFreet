@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React+Typescript<br>
+🌱 I’m currently learning React+Typescript + Java+Spring Boot<br>
 
 
 # 💻 Tech Stack:
